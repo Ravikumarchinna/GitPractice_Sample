@@ -18,9 +18,9 @@
 
     //........... Development branch created and pushed to the remote
     
-    NSLog(@"Development branch deleting...");
-    
-    
+    NSLog(@"Development branch1 ...");
+    NSString *str = @"Hi";
+    NSLog(@"%@",str);
 }
 
 
