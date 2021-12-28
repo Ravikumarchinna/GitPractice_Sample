@@ -16,6 +16,13 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view.
+    
+    
+    NSString *str_local = @"Local Hi";
+    NSLog(@"%@",str_local);
+    
+    
+    
 }
 
 
